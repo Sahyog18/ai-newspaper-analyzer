@@ -91,6 +91,8 @@ Date: March 2026
 | User Efficiency        | Improved    | Saves time in reading news                   |
 
 - Outputs include summarized text, sentiment labels, and extracted keywords.
+ 
+  ![Result Screenshot]( ai-news-analyzer.png.png)
 
 ---
 
